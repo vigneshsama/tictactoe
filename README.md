@@ -1,0 +1,3 @@
+# tictactoe
+Tic-Tac-Toe: AI Implementation Using Multi-Agents
+This project presents an AI-powered implementation of the classic Tic-Tac-Toe game. It uses multi-agent systems with different strategies to play intelligently against human players or other AI agents. The AI is implemented using the Minimax algorithm, which helps it make optimal decisions during the game. Three types of agents are developed: the Offensive Agent, which focuses on winning by completing rows; the Defensive Agent, which blocks the opponent’s moves; and the Balanced Agent, which combines both offense and defense. The game is simple to run, and users can interact with the AI via an intuitive interface.
